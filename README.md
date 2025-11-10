@@ -2,7 +2,7 @@
 
 A real-time operations control tower to monitor DoD COVID-19 test kit inventory, built 2020-2021.
 
-👉 **Live Demo:** [Open Dashboard]([https://robinhood-dashboard.replit.app](https://robinhood-a-supply-chain-operations-tool-for-covid-19-bsmilen.replit.app))
+👉 **Live Demo:** [Open Dashboard](https://robinhood-a-supply-chain-operations-tool-for-covid-19-bsmilen.replit.app))
 
 ### Features
 - Interactive data upload portal
